@@ -11,18 +11,16 @@
 - ⚡ Fun fact: ...
 
 ## Мой стек:
-![Java](./img/java.webp) { width=50% }
-![Kotlin](./img/kotlin.webp =50x50)
-![Android Studio](./img/studio.png =50x50)
-![Git](./img/git.webp =50x50)
-![Gradle](./img/gradle.webp =50x50)
-![Android Architecture Components](./img/aac.webp =50x50)
-![MySQL](./img/mysql.svg =50x50)
-![Material Design](./img/material.webp =50x50)
+![Java](./img/java.webp)
+![Kotlin](./img/kotlin.webp)
+![Git](./img/git.webp)
+![Gradle](./img/gradle.webp)
+![Android Architecture Components](./img/aac.webp)
+![Material Design](./img/material.webp)
 
 ## Контакты:
-[<img src="./svg/telegram.svg">](https://t.me/yrt9ga)
-[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:yrt12345@gmail.com)
+[<img src="./img/telegram.svg">](https://t.me/yrt9ga)
+[<img src="./img/gmail.svg" width="96px" height="96px">](mailto:yrt12345@gmail.com)
 
 ##
 <div>
