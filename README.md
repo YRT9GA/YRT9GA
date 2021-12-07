@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 
 ## Мой стек:
-![Java](./img/java.webp =50x50)
+![Java](./img/java.webp) { width=50% }
 ![Kotlin](./img/kotlin.webp =50x50)
 ![Android Studio](./img/studio.png =50x50)
 ![Git](./img/git.webp =50x50)
