@@ -13,16 +13,14 @@
 ## Мой стек:
 ![Java](./img/java.webp)
 ![Kotlin](./img/kotlin.webp)
-![Android Studio](./img/studio.png)
 ![Git](./img/git.webp)
 ![Gradle](./img/gradle.webp)
 ![Android Architecture Components](./img/aac.webp)
-![MySQL](./img/mysql.svg)
 ![Material Design](./img/material.webp)
 
 ## Контакты:
-[<img src="./svg/telegram.svg">](https://t.me/yrt9ga)
-[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:yrt12345@gmail.com)
+[<img src="./img/telegram.svg">](https://t.me/yrt9ga)
+[<img src="./img/gmail.svg" width="96px" height="96px">](mailto:yrt12345@gmail.com)
 
 ##
 <div>
