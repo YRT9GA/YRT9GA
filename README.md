@@ -1,10 +1,6 @@
-### Hi there 👋
+### Добро пожаловать на мою страницу в Git 👋
 
-<!--
-**YRT9GA/YRT9GA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Обо мне:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +9,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Мой стек:
+![Java](./img/java.webp)
+![Kotlin](./img/kotlin.webp)
+![Android Studio](./img/studio.png)
+![Git](./img/git.webp)
+![Gradle](./img/gradle.webp)
+![Android Architecture Components](./img/aac.webp)
+![MySQL](./img/mysql.svg)
+![Material Design](./img/material.webp)
+
+## Контакты:
+[<img src="./svg/telegram.svg">](https://t.me/yrt9ga)
+[<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:yrt12345@gmail.com)
+
+##
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=yrt9ga&hide=contribs&show_icons=true&theme=react">
+    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=yrt9ga&hide=contribs&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yrt9ga&layout=compact&theme=react">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrt9ga&layout=compact&theme=react" />
+  </a>
+</div>
